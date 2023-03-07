@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Shradha </h1>
 <br/>
 <div align="center">
@@ -78,7 +80,7 @@
 <p align="center">
 
 <!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shradha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhavastrakar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhavastrakar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="shradhavastrakar" /></p>
+ <img margin= "auto" title="🔥 Get streak stats for your profile at git.io/streak-stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=shradhavastrakar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="shradhavastrakar" /></p>
     </a>
 </p>
 
@@ -87,9 +89,13 @@
   
 <p align="center">
 
-     <img alt="Shradha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shradhavastrakar&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--      <img alt="Shradha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shradhavastrakar&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
  </p> 
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shradhavastrakar&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shradhavastrakar" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shradhavastrakar&show_icons=true&locale=en" alt="shradhavastrakar" /></p>
  <br/>
 
 
