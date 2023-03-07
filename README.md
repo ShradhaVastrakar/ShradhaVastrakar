@@ -10,7 +10,7 @@
 <img align="right" alt "Coding" width="400" src="https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966">
 
 
-<!-- <p align="left"> <img src="https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966" alt="Shradha" /> </p> -->
+
 
 
 
@@ -79,7 +79,7 @@
 
 <p align="center">
 
-<!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shradha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhavastrakar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
+
  <img margin= "auto" title="🔥 Get streak stats for your profile at git.io/streak-stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=shradhavastrakar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="shradhavastrakar" /></p>
     </a>
 </p>
@@ -89,7 +89,7 @@
   
 <p align="center">
 
-<!--      <img alt="Shradha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shradhavastrakar&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+
 
  </p> 
  
