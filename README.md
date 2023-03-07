@@ -93,9 +93,9 @@
 
  </p> 
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shradhavastrakar&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shradhavastrakar" /></p>
+ <p><img align="left"   src="https://github-readme-stats.vercel.app/api/top-langs?username=shradhavastrakar&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shradhavastrakar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shradhavastrakar&show_icons=true&locale=en" alt="shradhavastrakar" /></p>
+<p><img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-stats.vercel.app/api?username=shradhavastrakar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="shradhavastrakar" /></p>
  <br/>
 
 
