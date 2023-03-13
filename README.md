@@ -24,7 +24,7 @@
 
 -  🌎 Let's Create something the World needs 🌎
 
-- 👉 Connect with me on [LinkedIn](https://drive.google.com/file/d/1NPdI4VdheQ3tfCpshVEpxkIerQvLAfck/view?usp=share_link)
+- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/shradha-vastrakar/)
 
 
 <br/>
