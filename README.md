@@ -18,7 +18,7 @@
 
 - 📫 Reach me at *shradhavastrakar@gmail.com*
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1NPdI4VdheQ3tfCpshVEpxkIerQvLAfck/view?usp=share_link)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1k735WndZ9KcwrcACRhlpCs2PRi-D6-UL/view?usp=sharing)
 
 - ⚡ Fun fact - I love Coding 🖊️
 
