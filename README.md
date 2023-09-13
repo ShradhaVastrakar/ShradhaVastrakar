@@ -63,10 +63,11 @@
       <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" /> &nbsp;
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb" /> &nbsp;
          <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="sql" /> &nbsp;
-      <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" align="center" alt="Socket.io" /> &nbsp;
+      <br>
+<!--       <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" align="center" alt="Socket.io" /> &nbsp; -->
     </p>
     <br />
-    <img src="https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" align="center" alt="REST" /> &nbsp;
+    <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" align="center" alt="Socket.io" /> &nbsp;
     <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="REST API" /> &nbsp;
     <img src="https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" align="center" alt="RESTful API" /> &nbsp;
     <img src="https://img.shields.io/badge/AWS-FF3E00?style=for-the-badge&logo=amazon%20aws&logoColor=white" align="center" alt="AWS" /> &nbsp;
