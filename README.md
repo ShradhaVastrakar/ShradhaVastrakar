@@ -7,9 +7,16 @@
 
 <h1 align="center">Hi 👋, I'm Shradha Vastrakar</h1>
 
+
 <h3 align="center">
-Full Stack Web Developer | Node.js Backend Developer | React Developer
+Frontend Developer | Full Stack Web Developer | React & Next.js Developer
 </h3>
+
+<p align="center">
+Frontend Developer with 3+ years of experience building high-performance, scalable, and responsive web applications using React.js, Next.js, TypeScript, and Node.js. Passionate about crafting seamless user experiences, optimizing application performance, and developing production-grade systems serving 10,000+ daily users.
+</p>
+
+
 
 <p align="center">
 Passionate about building scalable web applications, REST APIs, and user-friendly digital experiences.
@@ -33,7 +40,7 @@ Passionate about building scalable web applications, REST APIs, and user-friendl
 - 🌐 Portfolio: [shradhavastrakar.github.io](https://shradhavastrakar.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/shradha-vastrakar](https://www.linkedin.com/in/shradha-vastrakar/)
 - 📧 Email: **shradhavastrakar@gmail.com**
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1k735WndZ9KcwrcACRhlpCs2PRi-D6-UL/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1RktC3ezGllP23mdGC0UH9FEo93IfegsA/view?usp=sharing)
 
 ---
 
